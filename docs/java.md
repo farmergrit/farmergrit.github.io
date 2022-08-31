@@ -1,9 +1,9 @@
 ---
 layout: default
-title: java
+title: Java
 nav_order: 2
 has_children: true
-permalink: docs/Java
+permalink: /docs/Java
 ---
 
 # Java
