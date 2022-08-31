@@ -1,4 +1,3 @@
-JavaTest
 ---
 layout: default
 title: JavaTest
