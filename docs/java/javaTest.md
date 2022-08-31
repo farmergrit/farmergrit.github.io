@@ -6,4 +6,4 @@ nav_order: 1
 ---
 
 # JavaTest
-{: .no_toc }
+Test
