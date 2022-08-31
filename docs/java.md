@@ -7,7 +7,5 @@ permalink: docs/java
 ---
 
 # Java
-{: .no_toc }
 
 Java Page Test
-{: .fs-6 .fw-300 }
